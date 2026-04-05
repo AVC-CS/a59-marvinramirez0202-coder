@@ -8,6 +8,7 @@ int main()
 	// TODO
 	flag == 1;
 	cin >> current;
+	cout << prev << " ";
 
 	// TODO
 	while((flag == 1) || (prev > current)){
