@@ -7,7 +7,7 @@ int main()
 	int prev, current, flag;
 	// TODO
 	flag == 1;
-	cin >> current;
+	cin >> prev >> current;
 	cout << prev << " ";
 
 	// TODO
